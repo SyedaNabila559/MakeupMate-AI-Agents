@@ -105,7 +105,7 @@ for col, product in zip(cols * (len(makeup_products) // 3 + 1), makeup_products)
 
 # Footer
 st.markdown("---")
-st.markdown("💄 **MakeupMate AI** &copy; 2025 | Created by Rahat Bano")
+st.markdown("💄 **MakeupMate AI** &copy; 2025 | Created by Nabila Bannay  khan")
 
 
 
